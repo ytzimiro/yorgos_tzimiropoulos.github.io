@@ -19,22 +19,20 @@ In the aforementioned areas, I have co-authored more than 60 publications (h-ind
 For a full list of publications see my [Google Scholar](https://scholar.google.co.uk/citations?user=D4JkWxf-8fwC&hl=en&oi=ao).
 
 # Team 
-## QMUL & UoN
-* Jing Yang (PhD)
-* John McDonagh (PhD)
-* Keerthy Kusumam (PhD)
-* Dimitris Mallis (PhD)
-* Ioanna Ntinou (PhD)
-* Zhonglin Sun (PhD)
-* Yeming Meng (PhD)
-## Samsung AI Center
-* Adrian Bulat 
-* Enrique Sanchez-Lozano
-* Shiyang Cheng
-* Stavros Petridis
+* Jing Yang (PhD, UoN)
+* John McDonagh (PhD, UoN)
+* Keerthy Kusumam (PhD, UoN)
+* Dimitris Mallis (PhD, UoN)
+* Ioanna Ntinou (PhD, QMUL)
+* Zhonglin Sun (PhD, QMUL)
+* Yeming Meng (PhD, QMUL)
+* Adrian Bulat (Samsung AI Center) 
+* Enrique Sanchez-Lozano (Samsung AI Center) 
+* Shiyang Cheng (Samsung AI Center) 
+* Stavros Petridis (Samsung AI Center) 
 ## Past Supervision
-* Adrian Bulat (PhD; now with Samsung AI Center)
-* Enrique Sanchez-Lozano (PhD & Post-Doc; now with Samsung AI Center)
+* Adrian Bulat (PhD)
+* Enrique Sanchez-Lozano (PhD & Post-Doc)
 * Aaron Jackson (PhD; now with UoN)
 * Themos Stafylakis (Marie Curie Research Fellow; now with Omilia)
 * Haris Khan (Post-Doc; now with MBZUAI - UAE)
