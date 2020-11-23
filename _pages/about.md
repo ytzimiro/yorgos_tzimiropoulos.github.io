@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-As of 2020, I am Associate Professor at Queen Mary University London and a Principal Scientist at Samsung AI Center, Cambridge. Prior to that, I was Associate Professor at the University of Nottingham, and Senior Research Fellow in the Intelligent Behaviour Understanding Group (iBUG), at Imperial College London. 
+As of 2020, I am Associate Professor at Queen Mary University London and Principal Scientist at Samsung AI Center, Cambridge. Prior to that, I was Associate Professor at the University of Nottingham, and Senior Research Fellow in the Intelligent Behaviour Understanding Group (iBUG), at Imperial College London. 
 I received the Diploma degree in Electrical and Computer Engineering from Aristotle University of Thessaloniki, Greece, and the M.Sc. and Ph.D. degrees in Signal Processing and Computer Vision both from Imperial College London.
 
 # Research 
