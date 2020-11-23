@@ -19,7 +19,7 @@ In the aforementioned areas, I have co-authored more than 60 publications (h-ind
 For a full list of publications see my [Google Scholar](https://scholar.google.co.uk/citations?user=D4JkWxf-8fwC&hl=en&oi=ao).
 
 # Team 
-### QMUL & UoN
+## QMUL & UoN
 * Jing Yang (PhD)
 * John McDonagh (PhD)
 * Keerthy Kusumam (PhD)
@@ -27,12 +27,12 @@ For a full list of publications see my [Google Scholar](https://scholar.google.c
 * Ioanna Ntinou (PhD)
 * Zhonglin Sun (PhD)
 * Yeming Meng (PhD)
-### Samsung AI Center
+## Samsung AI Center
 * Adrian Bulat 
 * Enrique Sanchez-Lozano
 * Shiyang Cheng
 * Stavros Petridis
-### Past Supervision
+## Past Supervision
 * Adrian Bulat (PhD; now with Samsung AI Center)
 * Enrique Sanchez-Lozano (PhD & Post-Doc; now with Samsung AI Center)
 * Aaron Jackson (PhD; now with UoN)
