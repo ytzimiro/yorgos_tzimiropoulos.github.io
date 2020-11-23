@@ -15,10 +15,10 @@ I received the Diploma degree in Electrical and Computer Engineering from Aristo
 My research interests are mainly in the problems of object detection and tracking, alignment and pose estimation, 3D reconstruction, super-resolution, and recognition with humans and faces being the focal point of my research. I have approached these problems mainly using tools from Mathematical
 Optimization and Machine Learning. My current focus is on Compute and Data Efficient Deep Learning.
 In the aforementioned areas, I have co-authored more than 60 publications (h-index 34, over 6,400 citations to my work according to Google Scholar), many of which in the most authoritative journals (IEEE TPAMI, IJCV, IEEE TIP) and conferences (CVPR, ICCV, ECCV, NeurIPS, ICLR) of my field. 
+
 For a full list of publications see my [Google Scholar](https://scholar.google.co.uk/citations?user=D4JkWxf-8fwC&hl=en&oi=ao).
 
 # Team 
-## Current
 ### QMUL & UoN
 * Jing Yang (PhD)
 * John McDonagh (PhD)
@@ -27,14 +27,12 @@ For a full list of publications see my [Google Scholar](https://scholar.google.c
 * Ioanna Ntinou (PhD)
 * Zhonglin Sun (PhD)
 * Yeming Meng (PhD)
-
 ### Samsung AI Center
 * Adrian Bulat 
 * Enrique Sanchez-Lozano
-* Shiyang Chen
+* Shiyang Cheng
 * Stavros Petridis
-
-### Past
+### Past Supervision
 * Adrian Bulat (PhD; now with Samsung AI Center)
 * Enrique Sanchez-Lozano (PhD & Post-Doc; now with Samsung AI Center)
 * Aaron Jackson (PhD; now with UoN)
