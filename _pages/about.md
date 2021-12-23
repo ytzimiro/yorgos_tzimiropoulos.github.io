@@ -12,7 +12,7 @@ As of 2020, I am Associate Professor at Queen Mary University London and Princip
 I received the Diploma degree in Electrical and Computer Engineering from Aristotle University of Thessaloniki, Greece, and the M.Sc. and Ph.D. degrees in Signal Processing and Computer Vision both from Imperial College London.
 
 # 4 PhD positions available (Deadline 30th January)
-* Check them out [here!] ([Google Scholar](https://sites.google.com/view/ioannispatras/phd-positions)
+* Check them out [here!] (https://sites.google.com/view/ioannispatras/phd-positions)
 * Contact me @ g.tzimiropoulos@qmul.ac.uk
 
 # Research 
