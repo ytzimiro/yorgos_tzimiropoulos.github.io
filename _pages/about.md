@@ -22,7 +22,6 @@ Optimization and Machine Learning. My current focus is on Compute and Data Effic
 In the aforementioned areas, I have co-authored more than 60 publications (h-index 34, over 6,400 citations to my work according to Google Scholar), many of which in the most authoritative journals (IEEE TPAMI, IJCV, IEEE TIP) and conferences (CVPR, ICCV, ECCV, NeurIPS, ICLR) of my field. For a full list of publications see my [Google Scholar](https://scholar.google.co.uk/citations?user=D4JkWxf-8fwC&hl=en&oi=ao).
 
 # Team 
-* Jing Yang (PhD, UoN)
 * John McDonagh (PhD, UoN)
 * Keerthy Kusumam (PhD, UoN)
 * Dimitris Mallis (PhD, UoN)
@@ -32,17 +31,20 @@ In the aforementioned areas, I have co-authored more than 60 publications (h-ind
 * Adrian Bulat (Samsung AI Center) 
 * Enrique Sanchez-Lozano (Samsung AI Center) 
 * Shiyang Cheng (Samsung AI Center) 
-* Stavros Petridis (Samsung AI Center) 
+* Swathikiran Sudhakaran (Samsung AI Center) 
 
 # Past Supervision
+* Jing Yang (PhD)
 * Adrian Bulat (PhD)
 * Enrique Sanchez-Lozano (PhD & Post-Doc)
-* Aaron Jackson (PhD; now with UoN)
+* Aaron Jackson (PhD)
 * Themos Stafylakis (Marie Curie Research Fellow; now with Omilia)
 * Haris Khan (Post-Doc; now with MBZUAI - UAE)
 * Farhad Bazyari (Post-Doc)
+* Stavros Petridis (Samsung AI Center)
 
 # Projects 
+* EPSRC Revisiting optical scattering with machine learning (Co-I)
 * H2020 TalkingHeads (Supervisor)
 * EPSRC Facial Deformable Models of Animals (PI)
 * Visible Signs of Feline Pain (PI for Computer Science)
@@ -50,4 +52,4 @@ In the aforementioned areas, I have co-authored more than 60 publications (h-ind
 
 # Teaching 
 
-* Artificial Intelligence (ECS629U)
+* Neural Networks & Deep Learning (ECS659U and ECS659P)
