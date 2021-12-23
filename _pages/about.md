@@ -11,6 +11,10 @@ redirect_from:
 As of 2020, I am Associate Professor at Queen Mary University London and Principal Scientist at Samsung AI Center, Cambridge. Prior to that, I was Associate Professor at the University of Nottingham, and Senior Research Fellow in the Intelligent Behaviour Understanding Group (iBUG), at Imperial College London. 
 I received the Diploma degree in Electrical and Computer Engineering from Aristotle University of Thessaloniki, Greece, and the M.Sc. and Ph.D. degrees in Signal Processing and Computer Vision both from Imperial College London.
 
+# 4 PhD positions available (Deadline 30th January)
+* Check them out [here!] ([Google Scholar](https://sites.google.com/view/ioannispatras/phd-positions)
+* Contact me @ g.tzimiropoulos@qmul.ac.uk
+
 # Research 
 My research interests are mainly in the problems of object detection and tracking, alignment and pose estimation, 3D reconstruction, super-resolution, and recognition with humans and faces being the focal point of my research. I have approached these problems mainly using tools from Mathematical
 Optimization and Machine Learning. My current focus is on Compute and Data Efficient Deep Learning.
