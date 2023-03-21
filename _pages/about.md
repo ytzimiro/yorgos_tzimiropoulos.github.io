@@ -15,13 +15,14 @@ I received the Diploma degree in Electrical and Computer Engineering from Aristo
 # Research 
 My research interests are mainly in the problems of image & video recognition, detection and tracking, pose estimation, image & video generation, 3D reconstruction and super-resolution, with humans and their actions being the focal point of my research. I have approached these problems mainly using tools from Mathematical Optimization and Machine Learning. My current focus is on Compute & Data Efficient Deep Learning and its application to video recognition.
 
-In the aforementioned areas, I have co-authored more than 100 publications (h-index 41, over 10,000 citations to my work according to Google Scholar), many of which in the most authoritative journals (IEEE TPAMI, IJCV, IEEE TIP) and conferences (CVPR, ICCV, ECCV, NeurIPS, ICLR) of my field. For a full list of publications see my [Google Scholar](https://scholar.google.co.uk/citations?user=D4JkWxf-8fwC&hl=en&oi=ao).
+In the aforementioned areas, I have co-authored more than 100 publications (h-index 45, over 11,000 citations to my work according to Google Scholar), many of which in the most authoritative journals (IEEE TPAMI, IJCV, IEEE TIP) and conferences (CVPR, ICCV, ECCV, NeurIPS, ICLR) of my field. For a full list of publications see my [Google Scholar](https://scholar.google.co.uk/citations?user=D4JkWxf-8fwC&hl=en&oi=ao).
 
 # Team @ QMUL
+* Alexandros Xenos (PhD, QMUL)
 * Debin Meng (PhD, QMUL)
+* Stella Bounareli (PhD, with Vasilis Argyriou)
 * Ioanna Ntinou (PhD, QMUL)
 * Zhonglin Sun (PhD, QMUL)
-* Yeming Meng (PhD, QMUL)
 
 # Past Supervision (QMUL & UoN) 
 * Keerthy Kusumam (PhD)
@@ -43,4 +44,4 @@ In the aforementioned areas, I have co-authored more than 100 publications (h-in
 
 # Teaching 
 
-* Neural Networks & Deep Learning (ECS659U and ECS659P)
+* Neural Networks & Deep Learning (ECS659U & ECS659P)
