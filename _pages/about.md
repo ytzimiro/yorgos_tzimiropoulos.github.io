@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Head of the Future Interaction Programme & Principal Scientist at Samsung AI Center, Cambridge and Associate Professor at Queen Mary University of London. Prior to that, I was Associate Professor at the University of Nottingham, and Senior Research Fellow in the Intelligent Behaviour Understanding Group (iBUG), at Imperial College London. 
+I am Head of the Future Interaction Programme & Principal Scientist at [Samsung AI Center, Cambridge](https://research.samsung.com/aicenter_cambridge) and Associate Professor at Queen Mary University of London. Prior to that, I was Associate Professor at the University of Nottingham, and Senior Research Fellow in the Intelligent Behaviour Understanding Group (iBUG), at Imperial College London. 
 I received the Diploma degree in Electrical and Computer Engineering from Aristotle University of Thessaloniki, Greece, and the M.Sc. and Ph.D. degrees in Signal Processing and Computer Vision both from Imperial College London.
 
 
